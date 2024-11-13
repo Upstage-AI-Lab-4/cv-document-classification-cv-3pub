@@ -40,6 +40,7 @@
 <br>
 - Mixup, Cutmix 등 추가
 <br>
+<br>
 2. 모델 아키텍처:
 <br>
 ResNet (34, 50, 101, 152)
