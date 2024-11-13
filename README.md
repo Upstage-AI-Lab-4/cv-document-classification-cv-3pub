@@ -45,13 +45,13 @@
 <br>
 2. 모델 아키텍처:
 <br>
+EfficientNet (B0, B3, B4) > 개별 모델에서 성능 제일 좋았음. 특히 Efficientnet_b3
+<br>
 ResNet (34, 50, 101, 152)
 <br>
 ResNeXt
 <br>
 DenseNet121
-<br>
-EfficientNet (B0, B3, B4)
 <br>
 Vision Transformer (ViT)
 <br>
