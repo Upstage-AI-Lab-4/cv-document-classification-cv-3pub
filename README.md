@@ -40,7 +40,7 @@
 <br>
 - Augraphy는 offline 데이터셋으로 먼저 20만장 정도 증강 후 사용했더니 큰 차이 없어 대부분 사용 안함(일부만 사용)
 <br>
-- Mixup, Cutmix 등 추가 사용, 
+- Mixup, Cutmix 등 추가 사용
 <br>
 <br>
 2. 모델 아키텍처:
