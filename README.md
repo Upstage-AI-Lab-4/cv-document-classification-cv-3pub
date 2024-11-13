@@ -38,7 +38,9 @@
 <br>
 - 온라인 증강: Random Brightness & Contrast, Hue Shift, Gaussian Noise 등
 <br>
-- Mixup, Cutmix 등 추가 사용, Augraphy는 추후 선택적 사용
+- Mixup, Cutmix 등 추가 사용, 
+<br>
+- Augraphy는 offline 데이터셋 증강 후 사용해도 큰 차이 없어 대부분 사용 안함(일부만 사용)
 <br>
 <br>
 2. 모델 아키텍처:
