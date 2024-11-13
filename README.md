@@ -36,9 +36,9 @@
 <br>
 - 오프라인 증강(14만장, 20만장, 30만장): Rotation, Flip, Augmentation(class 1,13,14 위주), Transforms 등
 <br>
-- 온라인 증강: Augraphy, Random Brightness & Contrast, Hue Shift, Gaussian Noise 등
+- 온라인 증강: Augraphy(선택적 사용함), Random Brightness & Contrast, Hue Shift, Gaussian Noise 등
 <br>
-- Mixup, Cutmix 등 추가
+- Mixup, Cutmix 등 추가 사용
 <br>
 <br>
 2. 모델 아키텍처:
