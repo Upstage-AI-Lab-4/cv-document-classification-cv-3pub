@@ -66,8 +66,7 @@ ConvNeXt1
 <br>
 <br>
 4. 앙상블 기법:
-Soft Voting
-Hard Voting
+Soft Voting, Hard Voting
 <br>
 <br>
 
