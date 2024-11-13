@@ -38,6 +38,7 @@
 <br>
 - 온라인 증강: Augraphy, Random Brightness & Contrast, Hue Shift, Gaussian Noise 등
 <br>
+- Mixup, Cutmix 등 추가
 <br>
 2. 모델 아키텍처:
 <br>
