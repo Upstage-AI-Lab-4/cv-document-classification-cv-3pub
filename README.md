@@ -99,8 +99,6 @@ project/
 │  │      code_9(K-FOLD).ipynb
 │  │      Softvoting_exp_copy.ipynb
 │  │      Train_Only_3,7Class.ipynb
-│  │
-│  ├─DATASET
 │  │      train2.ipynb
 │  │      train2_EDA.ipynb
 │  │      train3.ipynb
