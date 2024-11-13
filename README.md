@@ -69,6 +69,9 @@ ConvNeXt1
 학습률 스케줄러: StepLR, CosineAnnealingLR1
 <br>
 <br>
+그 외: label smoothing, 클래스별 weights 시도 등
+<br>
+<br>
 4. 앙상블 기법:
 Soft Voting, Hard Voting
 <br>
