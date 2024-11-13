@@ -108,6 +108,7 @@ project/
 │  └─EDA
 │          EDA(Class, RGB, Resolutions).ipynb
 │          EDA(Identify Misclassifications).ipynb
+│
 ├─Jeongeun
 │      cv3_code_1106.ipynb
 │      cv3_code_ResNet50_1103.ipynb
